@@ -1,4 +1,4 @@
-Student Name: Leo Zhang, Student Number:301209995
+Student Name: Leo Zhang
 
 The program is written in C++
 All Source code file is included in TwoThreeTree folder:
