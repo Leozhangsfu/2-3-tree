@@ -1,4 +1,4 @@
-//author: Zi Hao(Leo) Zhang, Student Number: 301209995
+//author: Zi Hao(Leo) Zhang
 
 #include "TwoThreeTree.h"
 #include <stdexcept>
