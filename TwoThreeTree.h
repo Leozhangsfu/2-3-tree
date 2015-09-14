@@ -1,4 +1,4 @@
-//author: Zi Hao(Leo) Zhang, 
+//author: Zi Hao(Leo) Zhang
 
 #pragma once
 
